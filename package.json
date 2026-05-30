@@ -1,0 +1,19 @@
+{
+  "name": "hola-mundo-pro203",
+  "version": "1.0.0",
+  "description": "Hola mundo!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjpdonoso/hola-mundo-pro203.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devjpdonoso/hola-mundo-pro203/issues"
+  },
+  "homepage": "https://github.com/devjpdonoso/hola-mundo-pro203#readme"
+}
